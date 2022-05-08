@@ -1,0 +1,126 @@
+{
+  "Users": [
+    {
+      "UserName": "tomaszg",
+      "Password": "tomaszg",
+      "Id": 1
+    },
+    {
+      "UserName": "user1",
+      "Password": "user1",
+      "Id": 2
+    },
+    {
+      "UserName": "user3",
+      "Password": "user1",
+      "Id": 3
+    },
+    {
+      "UserName": "user1",
+      "Password": "user1",
+      "Id": 4
+    },
+    {
+      "UserName": "tomaszg",
+      "Password": "tomaszg",
+      "Id": 5
+    },
+    {
+      "UserName": "tomaszg",
+      "Password": "tomaszg",
+      "Id": 6
+    },
+    {
+      "UserName": "tomaszg",
+      "Password": "tomaszg",
+      "Id": 7
+    },
+    {
+      "UserName": "tomaszg",
+      "Password": "tomaszg",
+      "Id": 8
+    },
+    {
+      "UserName": "tomaszg",
+      "Password": "tomaszg",
+      "Id": 9
+    },
+    {
+      "UserName": "tomaszgg",
+      "Password": "tomaszgg",
+      "Id": 10
+    },
+    {
+      "UserName": "tomaszggg",
+      "Password": "tomaszggg",
+      "Id": 11
+    },
+    {
+      "UserName": "",
+      "Password": "",
+      "Id": 12
+    }
+  ],
+  "Posts": [
+    {
+      "Header": "world cup",
+      "Body": "coming soon",
+      "OwnerId": null,
+      "Id": 1
+    },
+    {
+      "Header": "test message 2",
+      "Body": "test message 2 content",
+      "OwnerId": null,
+      "Id": 2
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "1",
+      "Id": 3
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "1",
+      "Id": 4
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "1",
+      "Id": 5
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "1",
+      "Id": 6
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "",
+      "Id": 7
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "",
+      "Id": 8
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "",
+      "Id": 9
+    },
+    {
+      "Header": "test1",
+      "Body": "test1",
+      "OwnerId": "",
+      "Id": 10
+    }
+  ]
+}
